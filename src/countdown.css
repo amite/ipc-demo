@@ -5,13 +5,16 @@
   align-items: center;
   height: 100vh;
 }
+
 .title {
   font-family: sans-serif;
 }
+
 .countdown {
   margin-bottom: 40px;
   font-size: 100px;
 }
+
 .btn {
   display: block;
   padding: 20px 30px;
